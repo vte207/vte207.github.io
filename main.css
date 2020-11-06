@@ -1,0 +1,17 @@
+*{
+    margin: 0;padding: 0;box-sizing: border-box;
+}
+body{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: linear-gradient(to left,rgb(51, 24, 24),rgb(29, 29, 78))
+}
+h1{
+    font-size: 10vw;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background:linear-gradient(to left,rgb(100, 131, 100),rgb(95, 117, 60));
+    -webkit-background-clip:text;
+    -webkit-text-fill-color: transparent;
+}
